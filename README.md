@@ -14,4 +14,4 @@ Membuat machine learning model untuk dapat memprediksi/diagnosa penyakit diabete
   - scikit-learn
   - pickle
 
-**Web application di hosting melalui Heroku, dapat diakses di: diabetes-prediction.herokuapp.com**
+Web application di hosting melalui Heroku, dapat diakses di: **http://rpl-diabetes-prediction.herokuapp.com/**
